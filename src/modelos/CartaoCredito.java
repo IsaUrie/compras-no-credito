@@ -23,7 +23,7 @@ public class CartaoCredito {
     }
 
     public double getSaldo() {
-        return saldo;
+        return limite;
     }
 
     public void setSaldo(double saldo) {
